@@ -1,6 +1,6 @@
 /*Time Solution Project by UziByte*/
 /*This code is designed only for mac/linux users*/
-
+/*Hello run this code*/
 #include <iostream>
 #include <stdlib.h>
 #include <ctime>
