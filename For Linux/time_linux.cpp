@@ -237,8 +237,6 @@ void worldclock()
     {
         int sec_prev = 0;
         cout << "\033[2J\033[1;1H";
-        getch();
-        fflush(stdin);
         while (!kbhit())
         {
 
